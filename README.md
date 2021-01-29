@@ -31,7 +31,7 @@ flask run
 *Unix/Linux*
 ```bash
 cd API/
-set export FLASK_APP=hello.py
+export FLASK_APP=hello.py
 flask run
 ```
 
